@@ -1,4 +1,4 @@
-# Bayesian Estimation of Agent-Based Model Parameters Using Normalizing Flows
+# Assessing Parameter Identifiability in Agent-Based Models with Bayesian Amortized Inference
 
 ## Contents
 
